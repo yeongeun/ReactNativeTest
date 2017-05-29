@@ -1,0 +1,3 @@
+rootProject.name = 'FacebookLoginTest'
+
+include ':app'
